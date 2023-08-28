@@ -1,4 +1,5 @@
-# Maintainer: Dominik Schwaiger <mail@dominik-schwaiger.ch>
+# Maintainer: Johnny Chancafe <jchancafer@gmail.com>
+# Base: Dominik Schwaiger <mail@dominik-schwaiger.ch>
 pkgname='muon-ssh'
 pkgver=2.2.0
 pkgrel=1
